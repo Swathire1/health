@@ -10,3 +10,4 @@ git commit -m "new files are added"
 
 git remote add origin https://github.com/Swathire1/health.git
 
+git push origin master
